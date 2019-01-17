@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "faff92145777a3cbaf8e7367b4807987",
-    "url": "/px2vw/static/media/icons.faff9214.woff"
+    "revision": "e8c322de9658cbeb8a774b6624167c2c",
+    "url": "/px2vw/static/media/brand-icons.e8c322de.woff2"
   },
   {
-    "revision": "e899bbf8ee4ac60fe816",
+    "revision": "ae85e5e6c19265a705e5",
     "url": "/px2vw/static/css/main.d789727e.chunk.css"
   },
   {
@@ -28,6 +28,10 @@ self.__precacheManifest = [
     "url": "/px2vw/static/media/outline-icons.cd6c777f.woff2"
   },
   {
+    "revision": "9c74e172f87984c48ddf5c8108cabe67",
+    "url": "/px2vw/static/media/flags.9c74e172.png"
+  },
+  {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
     "url": "/px2vw/static/media/outline-icons.701ae6ab.eot"
   },
@@ -36,20 +40,16 @@ self.__precacheManifest = [
     "url": "/px2vw/static/media/outline-icons.ad97afd3.ttf"
   },
   {
-    "revision": "9c74e172f87984c48ddf5c8108cabe67",
-    "url": "/px2vw/static/media/flags.9c74e172.png"
-  },
-  {
     "revision": "0ab54153eeeca0ce03978cc463b257f7",
     "url": "/px2vw/static/media/icons.0ab54153.woff2"
   },
   {
-    "revision": "e899bbf8ee4ac60fe816",
-    "url": "/px2vw/static/js/main.e899bbf8.chunk.js"
+    "revision": "ae85e5e6c19265a705e5",
+    "url": "/px2vw/static/js/main.ae85e5e6.chunk.js"
   },
   {
-    "revision": "e8c322de9658cbeb8a774b6624167c2c",
-    "url": "/px2vw/static/media/brand-icons.e8c322de.woff2"
+    "revision": "faff92145777a3cbaf8e7367b4807987",
+    "url": "/px2vw/static/media/icons.faff9214.woff"
   },
   {
     "revision": "a046592bac8f2fd96e994733faf3858c",
@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/px2vw/static/media/icons.b87b9ba5.ttf"
   },
   {
-    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
-    "url": "/px2vw/static/media/icons.8e3c7f55.eot"
-  },
-  {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
     "url": "/px2vw/static/media/brand-icons.13db00b7.eot"
+  },
+  {
+    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
+    "url": "/px2vw/static/media/icons.8e3c7f55.eot"
   },
   {
     "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/px2vw/static/css/1.089fee93.chunk.css"
   },
   {
-    "revision": "4551bf4e519c72a56f82d25001bbbe44",
+    "revision": "9eb2d8b013db213afefdb6bce148d8b8",
     "url": "/px2vw/index.html"
   }
 ];
