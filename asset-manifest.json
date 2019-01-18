@@ -1,16 +1,16 @@
 {
   "main.css": "/px2vw/static/css/main.d789727e.chunk.css",
-  "main.js": "/px2vw/static/js/main.ae85e5e6.chunk.js",
-  "main.js.map": "/px2vw/static/js/main.ae85e5e6.chunk.js.map",
+  "main.js": "/px2vw/static/js/main.2a4c098e.chunk.js",
+  "main.js.map": "/px2vw/static/js/main.2a4c098e.chunk.js.map",
   "static/css/1.089fee93.chunk.css": "/px2vw/static/css/1.089fee93.chunk.css",
   "static/js/1.c80916f3.chunk.js": "/px2vw/static/js/1.c80916f3.chunk.js",
   "static/js/1.c80916f3.chunk.js.map": "/px2vw/static/js/1.c80916f3.chunk.js.map",
   "runtime~main.js": "/px2vw/static/js/runtime~main.a529daa7.js",
   "runtime~main.js.map": "/px2vw/static/js/runtime~main.a529daa7.js.map",
   "static/media/semantic.min.css": "/px2vw/static/media/brand-icons.a1a749e8.svg",
-  "static/css/main.d789727e.chunk.css.map": "/px2vw/static/css/main.d789727e.chunk.css.map",
   "static/css/1.089fee93.chunk.css.map": "/px2vw/static/css/1.089fee93.chunk.css.map",
+  "static/css/main.d789727e.chunk.css.map": "/px2vw/static/css/main.d789727e.chunk.css.map",
   "index.html": "/px2vw/index.html",
-  "precache-manifest.5bb3ea8112adca52c836f6599c6f21bb.js": "/px2vw/precache-manifest.5bb3ea8112adca52c836f6599c6f21bb.js",
+  "precache-manifest.54717b2cc4c6133d0c16dd7a3a8faccb.js": "/px2vw/precache-manifest.54717b2cc4c6133d0c16dd7a3a8faccb.js",
   "service-worker.js": "/px2vw/service-worker.js"
 }
